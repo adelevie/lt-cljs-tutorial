@@ -175,7 +175,7 @@ lt-cljs-tutorial/x
 ;; Constructing a type
 ;; ----------------------------------------------------------------------------
 
-;; Of course some JavaScript data types you will want to create with a
+;; Of course you will want to create some JavaScript data types with a
 ;; constructor.
 
 ;; (js/Date.) is equivalent to new Date().
